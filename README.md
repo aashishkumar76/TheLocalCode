@@ -44,7 +44,7 @@ Communication for the project is done over a few different mediums depending on 
 If urgent communication is needed and our instant messaging channels are not enough we have supplied our mobile numbers so that phone calls can be made. Email is also available if we need to send message which need to be saved and referred to later.
 
 ## Plan
-__Planning Phase:__ blah blah blah
+__Planning Phase:__ Our plan is broken up into four phases. Firstly we have the research and planning phase. Here we will gather more detailed user requirements and create some initial designs. Our second phase is Low-Fidelity prototyping of our basic concept. This will allow for some fast feedback on our design concept. Our third phase is Digital prototyping. Here we will create digital designs mocking functionality. This prototype will allow us to learn more about our design. We will also design backend functionality in this phase which will support the front design. In our final phase we will deliver our final prototype. This will be a more detailed digital prototype mocking system wide functionality (rather than individual aspects).
 
 ### Resources
 * SQL Database
