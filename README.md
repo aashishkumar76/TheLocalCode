@@ -22,7 +22,7 @@ The idea is that students would be able to use their own mobile devices in a con
 
 
 ## Team
-The Local Code is comprised of four students in DECO3500. Our skills vary due have range of backgrounds and as a result all have unique skills, roles and jobs which best suit us.
+The Local Code is comprised of four students in DECO3500. Our skills vary due to range of backgrounds and as a result all have unique skills, roles and jobs which best suit us.
 
 Name | Course Code | Student No. | Email/Phone | Description
 ------------ | ------------- | ------------- | ------------- | ------------- 
