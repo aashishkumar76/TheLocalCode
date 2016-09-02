@@ -40,15 +40,24 @@ Communication for the project is done over a few different mediums depending on 
 * Google Drive: used for collaborative document development and sharing. All things which dont belong in source control.
 * GitHub: store source code for the project. Required by course.
 * ZenHub: issue and ticket tracking. Required by course.
+
 If urgent communication is needed and our instant messaging channels are not enough we have supplied our mobile numbers so that phone calls can be made. Email is also available if we need to send message which need to be saved and referred to later.
 
 ## Plan
 __Planning Phase:__ blah blah blah
 
 ### Resources
+* SQL Database
+* Web technologies
+* Mobile dvelopment frameworks
 
 ## Deliverables
-
+* Design Proposal - Week 6
+* Standup - Week 8
+* Standup - Week 10
+* Standup - Week 12
+* Final Prototype - Week 13
+* Essay - Exam Block
 
 ## Tags
 ### Social and Mobile
