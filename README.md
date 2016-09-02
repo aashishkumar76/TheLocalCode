@@ -51,7 +51,7 @@ __Planning Phase:__ Our plan is broken up into four phases. Firstly we have the 
 * Web technologies
 * Mobile dvelopment frameworks
 
-## Deliverables
+### Deliverables
 * Design Proposal - Week 6
 * Standup - Week 8
 * Standup - Week 10
