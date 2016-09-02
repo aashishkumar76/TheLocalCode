@@ -14,10 +14,10 @@ Students can post their own news items and events on the wall under a different 
 The idea is that students would be able to use their own mobile devices in a constructive way at school or even just use school provided devices in a more meaningful way. It provides a safe and fast way for news to be passed around the school and makes use of already existing technologies. Parents are also kept aware of events that happen in the school and are thus better informed about their children's education.
 
 ### Why choose this over other apps?
-1, Gives admins (i.e. school body) greater control over news, events, posts, etc.
-2, Gives parents a new way to communicate with the school (i.e. they could have special accounts where the school could send weekly      newsletters, family events, etc)
-3, Admin/school could post school wide news to students (new way to inform them in a healthy way).
-4, Calendar feature where students can post local events (i.e. basketball game,for anyone to attend at lunch).
+* Gives admins (i.e. school body) greater control over news, events, posts, etc.
+* Gives parents a new way to communicate with the school (i.e. they could have special accounts where the school could send weekly      newsletters, family events, etc)
+* Admin/school could post school wide news to students (new way to inform them in a healthy way).
+* Calendar feature where students can post local events (i.e. basketball game,for anyone to attend at lunch).
    Could have tags to filter student news after admin body approves.
 
 
