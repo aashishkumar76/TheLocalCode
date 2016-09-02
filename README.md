@@ -42,4 +42,24 @@ Communication for the project is done over a few different mediums depending on 
 * ZenHub: issue and ticket tracking. Required by course.
 If urgent communication is needed and our instant messaging channels are not enough we have supplied our mobile numbers so that phone calls can be made. Email is also available if we need to send message which need to be saved and referred to later.
 
+## Plan
+__Planning Phase:__ blah blah blah
+
+### Resources
+
+## Deliverables
+
+
+## Tags
+### Social and Mobile
+1. Awareness
+2. CSCW
+3. Synchronization
+4. Translucence
+5. Physical
+
+### Journalism
+1. Bullentin Board
+2. Citizen
+
 Based on the AIM project idea
