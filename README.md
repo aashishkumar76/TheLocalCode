@@ -12,6 +12,14 @@ Students can post their own news items and events on the wall under a different 
 
 The idea is that students would be able to use their own mobile devices in a constructive way at school or even just use school provided devices in a more meaningful way. It provides a safe and fast way for news to be passed around the school and makes use of already existing technologies. Parents are also kept aware of events that happen in the school and are thus better informed about their children's education.
 
+### Why choose this over other apps?
+1, Gives admins (i.e. school body) greater control over news, events, posts, etc.
+2, Gives parents a new way to communicate with the school (i.e. they could have special accounts where the school could send weekly      newsletters, family events, etc)
+3, Admin/school could post school wide news to students (new way to inform them in a healthy way).
+4, Calendar feature where students can post local events (i.e. basketball game,for anyone to attend at lunch).
+   Could have tags to filter student news after admin body approves.
+
+
 ## Team
 The Local Code is comprised of four students in DECO3500. Our skills vary due have range of backgrounds and as a result all have unique skills, roles and jobs which best suit us.
 
@@ -19,7 +27,8 @@ Name | Course Code | Student No. | Email/Phone | Description
 ------------ | ------------- | ------------- | ------------- | ------------- 
 Farahida Hanim Mausor | DECO3500 | 43791695 | farahida.mausor@uqconnect.edu.au/ 0451 917 345 | Hi i am farah. Final semester of Master in Computer science ‘s student. As a computer science student being logic is a crucial when it come to developing algorithm and coding. In this project i am responsible to design the algorithm and ensure the system functionality works well. ……….
 David Lawson | DECO3500 | 43195819 | david.lawson@uqconnect.edu.au/ 0466 236 077 | Hi so I’m David. I’m a fourth year IT student majoring in Computer System and Networks & User Design. My skills would likely tailor me towards backend/ under the hood design. As my major suggests I also offer skills when it comes to making things nice and usable from a front end point of view. I’m also responsible of <blank> in relation to this project.
-Sidharth Sachdev | DECO3500 | XXXX-XXXX | sidharth.sachdev@uqconnect.edu.au/ XXXX XXX XXX | Description of yourself, yours skills and role in this project, what you’re responsible for in this project, etc.
+Aashish Kumar | DECO3500 | 43881082 | aashish.kumar@uqconnect.edu.au/ 0416 220 173 | I am first year IT student majoring in software and User Interface Design. I will be focusing on design aspects of the project , Prototypes , Models and all the Vitual things in it. Will be leading the team hopefully to the successful project.
+
 Oliver Trad | DECO3500 | XXXX-XXXX | oliver.trad@uqconnect.edu.au/ XXXX XXX XXX | Description of yourself, yours skills and role in this project, what you’re responsible for in this project, etc.
 
 ### Decision Making
